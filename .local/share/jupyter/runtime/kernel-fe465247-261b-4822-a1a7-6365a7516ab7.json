@@ -1,0 +1,13 @@
+{
+  "shell_port": 55559,
+  "iopub_port": 57057,
+  "stdin_port": 36537,
+  "control_port": 39107,
+  "hb_port": 60313,
+  "ip": "127.0.0.1",
+  "key": "dfb09b75-c6dd1a3fb36460bb2eec75c6",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "/home/jupyter-1000790/Titanic/Untitled.ipynb"
+}

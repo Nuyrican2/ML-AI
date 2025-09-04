@@ -1,0 +1,13 @@
+{
+  "base_url": "/user/1000790/",
+  "hostname": "127.0.0.1",
+  "password": false,
+  "pid": 449985,
+  "port": 43551,
+  "root_dir": "/home/jupyter-1000790",
+  "secure": false,
+  "sock": "",
+  "token": "52ee1f3855514386a38a9be388c55c54",
+  "url": "http://127.0.0.1:43551/user/1000790/",
+  "version": "2.14.2"
+}
