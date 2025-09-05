@@ -6,7 +6,7 @@ __pycache__/
 .ipython/profile_default/
 .bash_logout/
 .bashrc/
-.profile
+.profile/
 *.db
 .DS_Store
 Thumbs.db
