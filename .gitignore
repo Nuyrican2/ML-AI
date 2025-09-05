@@ -4,9 +4,10 @@ __pycache__/
 .jupyter/
 .local/
 .ipython/profile_default/
-.bash_logout/
-.bashrc/
-.profile/
+.bash_logout
+.bashrc
+.profile
+.cache/
 *.db
 .DS_Store
 Thumbs.db
