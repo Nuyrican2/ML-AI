@@ -1,0 +1,14 @@
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.jupyter/
+.local/
+.ipython/profile_default/
+.bash_logout/
+.bashrc/
+.profile
+*.db
+.DS_Store
+Thumbs.db
+venv/
+.venv/
